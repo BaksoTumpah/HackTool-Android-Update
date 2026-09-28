@@ -1,0 +1,16 @@
+{
+  "name": "hacktool-controller",
+  "version": "1.0.0",
+  "description": "Aplikasi kontrol nirkabel HackTool (ESP32-C3) via WebSocket",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/core": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.0"
+  }
+}

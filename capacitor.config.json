@@ -1,0 +1,9 @@
+{
+  "appId": "com.hacktool.controller",
+  "appName": "HackTool",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
